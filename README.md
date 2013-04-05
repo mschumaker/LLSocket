@@ -9,7 +9,7 @@ Step 1. Version handshake
 -------------------------
 64 Bits Total
 
-[LLSocket Protocol, 32 bits][Application Protocol, 32 bits]
+[LLSocket Protocol Version, 32 bits][Application Protocol Version, 32 bits]
 
 Step 2. Version Ack or Nack
 ---------------------------
